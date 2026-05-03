@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jouknanzoformktng.github.io/archive-wiovc9/sitemap.xml
